@@ -107,6 +107,7 @@ This ensures:
 
 Integrated everything without modifying the homepage layout design
 
+```
 Project Structure
 /twentytwentyfive
 ├── functions.php
@@ -115,6 +116,7 @@ Project Structure
 ├── parts/
 ├── patterns/
 └── styles/
+```
 
 All custom PHP and JS used in this project is stored in the theme folder.
 
