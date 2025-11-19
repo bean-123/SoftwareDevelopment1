@@ -8,6 +8,7 @@ This project is a modern, responsive WordPress site created for Ohjelmistokehity
 
 The goal was to build a functional, user-friendly, and content-driven platform without relying on page builders — achieving everything using WordPress core features, theme development, PHP, JavaScript, ACF, and custom templates.
 
+[Live site](https://jolly-sunrise.localsite.io)
 ![Hero section](/Screenshot%202025-11-19%20at%209.53.12.png)
 
 ## Key Features
